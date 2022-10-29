@@ -1,8 +1,9 @@
 import './style.css'
 import CardBack from '../../assets/card-back.png'
+import {useRef} from 'react'
 
 export default function Card({card, cardUnico, setCardUnico}){
-
+    
     function handleClickCard(){
         const localCard = [...cardUnico]
         
@@ -18,7 +19,7 @@ export default function Card({card, cardUnico, setCardUnico}){
 
             setTimeout(()=>{
                 handleClearCards(resultado, comparacao[0], localCard)
-            }, 800)
+            }, 2500)
             return
         }
 
@@ -31,7 +32,7 @@ export default function Card({card, cardUnico, setCardUnico}){
                     card.turned = false
                 })
                 setCardUnico([...localCard])
-            }, 1500)
+            }, 2500)
         }
     }
 

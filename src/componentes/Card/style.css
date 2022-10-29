@@ -3,9 +3,12 @@
     height: 236px;
     margin-top: 32px;
     margin-right: 32px;
+    position: relative;
+    transition: transform 2.0s;
+    transform-style: preserve-3d;
 }
 .card-img:hover{
-    transform: scaleX(1.2);
+  transform: rotateY(150deg);
 }
 @media (max-width:800px){
   .card-img{
