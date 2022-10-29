@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jodo-da-memoria/static/css/main.39aeff2f.css",
-    "main.js": "/jodo-da-memoria/static/js/main.0eab3556.js",
+    "main.css": "/jodo-da-memoria/static/css/main.c55a24f0.css",
+    "main.js": "/jodo-da-memoria/static/js/main.ef0b76fe.js",
     "static/media/card-back.png": "/jodo-da-memoria/static/media/card-back.a9f12982dab71372ca0a.png",
     "static/media/htmlcss.png": "/jodo-da-memoria/static/media/htmlcss.24df4f62493b38922231.png",
     "static/media/react.png": "/jodo-da-memoria/static/media/react.8d24e73eedd4c19e44a9.png",
@@ -11,11 +11,11 @@
     "static/media/javascript.png": "/jodo-da-memoria/static/media/javascript.de727adf89a242b83ee9.png",
     "static/media/congrats.png": "/jodo-da-memoria/static/media/congrats.7449e7332ac11c30a148.png",
     "index.html": "/jodo-da-memoria/index.html",
-    "main.39aeff2f.css.map": "/jodo-da-memoria/static/css/main.39aeff2f.css.map",
-    "main.0eab3556.js.map": "/jodo-da-memoria/static/js/main.0eab3556.js.map"
+    "main.c55a24f0.css.map": "/jodo-da-memoria/static/css/main.c55a24f0.css.map",
+    "main.ef0b76fe.js.map": "/jodo-da-memoria/static/js/main.ef0b76fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.39aeff2f.css",
-    "static/js/main.0eab3556.js"
+    "static/css/main.c55a24f0.css",
+    "static/js/main.ef0b76fe.js"
   ]
 }
